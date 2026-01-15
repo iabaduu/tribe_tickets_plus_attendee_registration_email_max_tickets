@@ -1,3 +1,5 @@
+<?php
+
 /**
  * RSVP Limit - Un attendee per email
  * Versione 7 - Fix recupero event_id
